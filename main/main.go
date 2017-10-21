@@ -16,5 +16,5 @@ func main() {
 			}
 		}
 	}
-	fmt.Println("Accuray : ", corr/float64(150*9))
+	fmt.Println("Accuray : ", corr/float64(80*9))
 }
